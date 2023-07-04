@@ -9,7 +9,7 @@ Each time the snake eats food, its length will increase, and your score will go 
 The game ends if the snake collides with the walls or itself.
 Try to achieve the highest score possible and challenge your friends to beat it!
 Demo
-You can try out the game by visiting the following link: Play Snakes Game
+You can try out the game by visiting the following link:https://karan958.github.io/Snakes-Game/
 
 Installation
 To run the game locally, follow these steps:
@@ -18,7 +18,7 @@ Clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/snakes-game.git
+git clone https://github.com/Karan958/Snakes-Game.git
 Navigate to the project directory.
 
 bash
