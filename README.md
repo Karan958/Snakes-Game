@@ -40,7 +40,7 @@ Acknowledgments
 A big thank you to the developers of the classic Snake game, which served as inspiration for this project.
 
 Contact
-If you have any questions, suggestions, or bug reports, feel free to contact me at snakes.game@example.com.
+If you have any questions, suggestions, or bug reports, feel free to contact me at gupta.2001karan@gmail.com.
 
 Enjoy the game!
 
