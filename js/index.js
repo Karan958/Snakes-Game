@@ -60,8 +60,14 @@ function gameEngine() {
       localStorage.setItem("hiscore", JSON.stringify(hiscoreval));
       HiScoreBox.innerHTML = "HiScore: " + hiscoreval;
     }
-    if(score > 10){
+    if(score >= 10){
       speed = 10;
+    }
+    if(score >= 20){
+      speed = 15;
+    }
+    if(score >= 30){
+      speed = 20;
     }
     scoreBox.innerHTML = "Score: " + score;
     snakeArr.unshift({
