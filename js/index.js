@@ -50,6 +50,7 @@ function gameEngine() {
     snakeArr = [{ x: 13, y: 15 }];
     // musicSound.play();
     score = 0;
+    speed = 7;
   }
 
   //  If you have eaten the food, increment the score and regenerate the food
